@@ -1,1 +1,1 @@
-echo "testing jenkins slack plugins..."
+echo "testing jenkins slack plugins"
