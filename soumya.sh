@@ -1,2 +1,1 @@
-echo "U r so smart,soumya"
-echo "It runs"
+echo "testing jenkins slack plugins"
