@@ -1,8 +1,12 @@
-pipeline{
+pipeline
+{
 agent{label 'master'}
-stages{
-stage 'my project'{
-steps{
+stages
+{
+stage 'my project'
+{
+steps
+{
 sh(script:'ls')
 }
 }
