@@ -1,0 +1,9 @@
+pipeline{
+Stages{
+Stage{
+Steps{
+sh(script:'ls')
+}
+}
+}
+}
