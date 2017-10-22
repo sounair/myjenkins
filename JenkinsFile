@@ -1,9 +1,11 @@
 pipeline
 {
-agent{label 'master'}
+agent{
+label 'master'
+}
 stages
 {
-stage 'my project'
+stage('my project')
 {
 steps
 {
