@@ -1,8 +1,8 @@
 pipeline{
 agent{label 'master'}
-Stages{
-Stage{
-Steps{
+stages{
+stage{
+steps{
 sh(script:'ls')
 }
 }
